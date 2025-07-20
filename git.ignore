@@ -1,0 +1,46 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Test cache
+.cache/
+*.cover
+*.log
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Pytest
+.pytest_cache/
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Environment variable files
+.env
+
+# Byte-compiled / compiled files
+*.so
+
+# Coverage reports
+htmlcov/
+coverage.xml
+*.coverage
+coverage/
+
+# OS metadata
+Thumbs.db
+ehthumbs.db
+Icon?
+
+# Misc
+*.swp
+*.bak
+*.tmp
