@@ -39,7 +39,7 @@ To keep the tests clean and DRY (Don't Repeat Yourself), I would extract reusabl
 # Performance test with Jmeter
 
 To test for performance and to make sure the store meets performance targets I would run the following test;
-- GET/products, Ger/products/{ID}
+- GET/products, GET/products/{ID}
 - Adding to car: POST/carts
 - Checkout flow: Post/orders
 - stress test ramping users from 100+ observe what point errors start to occur
